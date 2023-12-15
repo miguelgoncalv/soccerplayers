@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/soccerplayers/static/css/main.9150aace.css",
+    "main.js": "/soccerplayers/static/js/main.a37f2883.js",
+    "index.html": "/soccerplayers/index.html",
+    "main.9150aace.css.map": "/soccerplayers/static/css/main.9150aace.css.map",
+    "main.a37f2883.js.map": "/soccerplayers/static/js/main.a37f2883.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9150aace.css",
+    "static/js/main.a37f2883.js"
+  ]
+}
